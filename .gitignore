@@ -1,0 +1,13 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+
+# Never commit personal KYC documents or scans
+*.pdf
+*.png
+*.jpg
+!assets/epics-deals-ed-monogram.png
